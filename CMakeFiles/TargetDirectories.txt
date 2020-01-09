@@ -1,3 +1,0 @@
-/home/jjohns99/cpp_sandbox/CMakeFiles/rebuild_cache.dir
-/home/jjohns99/cpp_sandbox/CMakeFiles/edit_cache.dir
-/home/jjohns99/cpp_sandbox/CMakeFiles/example.dir
